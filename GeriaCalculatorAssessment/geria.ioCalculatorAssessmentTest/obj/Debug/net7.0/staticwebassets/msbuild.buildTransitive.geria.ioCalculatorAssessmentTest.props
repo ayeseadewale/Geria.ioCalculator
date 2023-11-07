@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\geria.ioCalculatorAssessmentTest.props" />
+</Project>
